@@ -167,5 +167,7 @@ public class Generator {
 
     private void printQuitMessage() {
         System.out.println("Closing the program bye bye!");
+
     }
+
 }
